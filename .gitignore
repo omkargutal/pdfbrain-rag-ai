@@ -18,4 +18,10 @@ htmlcov/
 .streamlit/
 *.streamlit.app
 
+# Ignore macOS metadata and documents
+.DS_Store
+
+# Ignore PDF files
+*.pdf
+
 
