@@ -1,0 +1,21 @@
+
+# Virtual environments
+venv/
+.venv
+env/
+ENV/
+env.bak/
+venv.bak/
+.env
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+
+# Streamlit specific
+.streamlit/
+*.streamlit.app
+
+
